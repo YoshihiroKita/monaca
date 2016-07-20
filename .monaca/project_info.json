@@ -1,0 +1,20 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca",
+        "mobi.monaca.plugins.bluetooth"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "6",
+    "cordova_version": "4.1",
+    "plugin_settings": [],
+    "external_plugins": [],
+    "title-ja": "beacon project",
+    "title-en": "",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "android"
+    ],
+    "name": "generated-1469037345-577f6dd8fd1734b555a554a9"
+}
